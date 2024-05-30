@@ -1,0 +1,14 @@
+C:\Users\Svistun\RiderProjects\Cursova\Cursova\bin\Debug\net8.0-windows\Cursova.exe
+C:\Users\Svistun\RiderProjects\Cursova\Cursova\bin\Debug\net8.0-windows\Cursova.deps.json
+C:\Users\Svistun\RiderProjects\Cursova\Cursova\bin\Debug\net8.0-windows\Cursova.runtimeconfig.json
+C:\Users\Svistun\RiderProjects\Cursova\Cursova\bin\Debug\net8.0-windows\Cursova.dll
+C:\Users\Svistun\RiderProjects\Cursova\Cursova\bin\Debug\net8.0-windows\Cursova.pdb
+C:\Users\Svistun\RiderProjects\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svistun\RiderProjects\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.AssemblyInfoInputs.cache
+C:\Users\Svistun\RiderProjects\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.AssemblyInfo.cs
+C:\Users\Svistun\RiderProjects\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.csproj.CoreCompileInputs.cache
+C:\Users\Svistun\RiderProjects\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.dll
+C:\Users\Svistun\RiderProjects\Cursova\Cursova\obj\Debug\net8.0-windows\refint\Cursova.dll
+C:\Users\Svistun\RiderProjects\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.pdb
+C:\Users\Svistun\RiderProjects\Cursova\Cursova\obj\Debug\net8.0-windows\Cursova.genruntimeconfig.cache
+C:\Users\Svistun\RiderProjects\Cursova\Cursova\obj\Debug\net8.0-windows\ref\Cursova.dll
